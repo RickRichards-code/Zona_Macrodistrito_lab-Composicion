@@ -1,1 +1,1 @@
-# Zona_Macrodistrito_lab-Composicion
+# en todos los proyectos de C# se debe implementar el < Console.ReadKey() >
